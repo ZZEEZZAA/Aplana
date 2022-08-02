@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "88e83aeb-d1ed-4a6c-a2fe-4550b87f8f5e",
+    "Name": "KirillAppealInTag",
+    "ModifiedOnUtc": "\/Date(1655312920000)\/",
+    "Parent": {
+      "UId": "5894a2b0-51d5-419a-82bb-238674634270",
+      "Name": "BaseEntityInTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег в записи раздела Обращение",
+    "DependsOn": []
+  }
+}

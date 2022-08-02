@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "b40f66b8-e810-4b7a-8296-81e769a58882",
+    "Name": "KirillAppealsNew",
+    "ModifiedOnUtc": "\/Date(1658317737000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Заявки 2.0",
+    "DependsOn": []
+  }
+}

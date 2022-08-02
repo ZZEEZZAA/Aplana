@@ -1,0 +1,183 @@
+= MetaData.Schema.UId "289d953c-2730-42af-8dbe-8345358f9c86"
+= MetaData.Schema.A2 "KirillAppeal"
+= MetaData.Schema.A5 "0fb0cb2a-366b-4438-84b3-624b07f0e858"
+= MetaData.Schema.B6 "1fcdc2c8-e2d6-34a0-ae52-0727061d3216"
+= MetaData.Schema.B8 "7.18.5.1500"
+= MetaData.Schema.EG1.UId "3117c8f9-0e02-4b0b-bad9-df09c0d5b99b"
+= MetaData.Schema.EG1.A2 "KirillAppealEventsProcess"
+= MetaData.Schema.EG1.A5 "0fb0cb2a-366b-4438-84b3-624b07f0e858"
+= MetaData.Schema.EG1.B1 []
+= MetaData.Schema.EG1.B3 []
++ MetaData.Schema.EG1.B8 "7.18.5.1500"
+= MetaData.Schema.EG1.FJ1 []
+= MetaData.Schema.EG1.BK37.A3 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK37.A4 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK3 []
+= MetaData.Schema.EG1.BK4 []
++ MetaData.Schema.EG1.Labels []
++ MetaData.Schema.D15 true
++ MetaData.Schema.D17 true
+= MetaData.Schema.D8 "1bab9dcf-17d5-49f8-9536-8e0064f1dce0"
++ MetaData.Schema.D29 "null"
++ MetaData.Schema.D30 "null"
++ MetaData.Schema.D31 "null"
++ MetaData.Schema.D4 "1c97e9f2-1a01-4761-aabf-6793826fe49e"
+- MetaData.Schema.D2.["ebf6bb93-8aa6-4a01-900d-c6ea67affe21"].E8
++ MetaData.Schema.D2 {
+  "UId": "1c97e9f2-1a01-4761-aabf-6793826fe49e",
+  "A2": "KirillName",
+  "A3": "289d953c-2730-42af-8dbe-8345358f9c86",
+  "A4": "289d953c-2730-42af-8dbe-8345358f9c86",
+  "A5": "0fb0cb2a-366b-4438-84b3-624b07f0e858",
+  "S2": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd",
+  "E2": 1,
+  "E5": false
+}
++ MetaData.Schema.D2 {
+  "UId": "5e09bfed-4f51-4889-bb67-5947f1acd94d",
+  "A2": "KirillNotes",
+  "A3": "289d953c-2730-42af-8dbe-8345358f9c86",
+  "A4": "289d953c-2730-42af-8dbe-8345358f9c86",
+  "A5": "0fb0cb2a-366b-4438-84b3-624b07f0e858",
+  "S2": "c0f04627-4620-4bc0-84e5-9419dc8516b1",
+  "E5": false
+}
++ MetaData.Schema.D2 {
+  "UId": "2830491a-2a21-4019-b528-252b802a7841",
+  "A2": "KirillLookup1",
+  "A3": "289d953c-2730-42af-8dbe-8345358f9c86",
+  "A4": "289d953c-2730-42af-8dbe-8345358f9c86",
+  "A5": "0fb0cb2a-366b-4438-84b3-624b07f0e858",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "16be3651-8fe2-4159-8dd0-a803d4683dd3",
+  "E6": true,
+  "E17": "KirillLookup1Id",
+  "E18": "KirillLookup1Name"
+}
++ MetaData.Schema.D2 {
+  "UId": "7230d5e2-d200-4fa7-813b-8b5b084ec072",
+  "A2": "KirillLookup3",
+  "A3": "289d953c-2730-42af-8dbe-8345358f9c86",
+  "A4": "289d953c-2730-42af-8dbe-8345358f9c86",
+  "A5": "0fb0cb2a-366b-4438-84b3-624b07f0e858",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "e9ccae00-420b-452c-9ed9-e65b0f860a3a",
+  "E2": 1,
+  "E6": true,
+  "E20": true,
+  "E17": "KirillLookup3Id",
+  "E18": "KirillLookup3Name"
+}
++ MetaData.Schema.D2 {
+  "UId": "7ea9e7ca-c44b-48ba-8c64-aa92315afeeb",
+  "A2": "KirillString1",
+  "A3": "289d953c-2730-42af-8dbe-8345358f9c86",
+  "A4": "289d953c-2730-42af-8dbe-8345358f9c86",
+  "A5": "0fb0cb2a-366b-4438-84b3-624b07f0e858",
+  "S2": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+}
++ MetaData.Schema.D2 {
+  "UId": "27162307-8fc6-4f23-b202-e4df402187f3",
+  "A2": "KirillDatetime1",
+  "A3": "289d953c-2730-42af-8dbe-8345358f9c86",
+  "A4": "289d953c-2730-42af-8dbe-8345358f9c86",
+  "A5": "0fb0cb2a-366b-4438-84b3-624b07f0e858",
+  "S2": "d21e9ef4-c064-4012-b286-fa1a8171da44"
+}
++ MetaData.Schema.D2 {
+  "UId": "b20ccee3-ea1e-4337-a00e-7503b6beb7a3",
+  "A2": "KirillAppealTime",
+  "A3": "289d953c-2730-42af-8dbe-8345358f9c86",
+  "A4": "289d953c-2730-42af-8dbe-8345358f9c86",
+  "A5": "0fb0cb2a-366b-4438-84b3-624b07f0e858",
+  "S2": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
+}
++ MetaData.Schema.D2 {
+  "UId": "c08ae96f-1656-4df0-a901-abaddc8c7135",
+  "A2": "KirillApeealTimeUnit",
+  "A3": "289d953c-2730-42af-8dbe-8345358f9c86",
+  "A4": "289d953c-2730-42af-8dbe-8345358f9c86",
+  "A5": "0fb0cb2a-366b-4438-84b3-624b07f0e858",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "a9432d40-f95f-4d31-9f48-0444ebba77ab",
+  "E6": true,
+  "E17": "KirillApeealTimeUnitId",
+  "E18": "KirillApeealTimeUnitName"
+}
++ MetaData.Schema.D2 {
+  "UId": "907f5232-da1e-6c12-bbed-5e46d5eb518e",
+  "A2": "KirillAppealAllTicketsCost",
+  "A3": "289d953c-2730-42af-8dbe-8345358f9c86",
+  "A4": "289d953c-2730-42af-8dbe-8345358f9c86",
+  "A5": "0fb0cb2a-366b-4438-84b3-624b07f0e858",
+  "S2": "969093e2-2b4e-463b-883a-3d3b8c61f0cd"
+}
++ MetaData.Schema.D2 {
+  "UId": "1c76d4af-44f0-a15e-00fa-2d822b53536d",
+  "A2": "KirillAppealMostCostTicket",
+  "A3": "289d953c-2730-42af-8dbe-8345358f9c86",
+  "A4": "289d953c-2730-42af-8dbe-8345358f9c86",
+  "A5": "0fb0cb2a-366b-4438-84b3-624b07f0e858",
+  "S2": "969093e2-2b4e-463b-883a-3d3b8c61f0cd"
+}
++ MetaData.Schema.D2 {
+  "UId": "9f11c510-752b-4993-a9b4-582b4f57aff3",
+  "A2": "KirillAppealMidCostTickets",
+  "A3": "289d953c-2730-42af-8dbe-8345358f9c86",
+  "A4": "289d953c-2730-42af-8dbe-8345358f9c86",
+  "A5": "0fb0cb2a-366b-4438-84b3-624b07f0e858",
+  "S2": "969093e2-2b4e-463b-883a-3d3b8c61f0cd"
+}
++ MetaData.Schema.D2 {
+  "UId": "0d153f85-add1-1117-fa48-daf02659acb0",
+  "A2": "KirillAppealCatalogUslug",
+  "A3": "289d953c-2730-42af-8dbe-8345358f9c86",
+  "A4": "289d953c-2730-42af-8dbe-8345358f9c86",
+  "A5": "0fb0cb2a-366b-4438-84b3-624b07f0e858",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "46799f1f-6ab0-47ff-8526-bd8674645a96",
+  "E6": true,
+  "E9": true,
+  "E17": "KirillAppealCatalogUslugId",
+  "E18": "KirillAppealCatalogUslugKirillName"
+}
++ MetaData.Schema.D2 {
+  "UId": "cc24ea4d-bf12-4fb5-b096-a34449df214f",
+  "A2": "KirillCode",
+  "A3": "289d953c-2730-42af-8dbe-8345358f9c86",
+  "A4": "289d953c-2730-42af-8dbe-8345358f9c86",
+  "A5": "0fb0cb2a-366b-4438-84b3-624b07f0e858",
+  "S2": "c0f04627-4620-4bc0-84e5-9419dc8516b1"
+}
++ MetaData.Schema.D2 {
+  "UId": "b6cd0818-abe7-4d48-bcb6-5b26e1d1a646",
+  "A2": "KirillAppealsCheck",
+  "A3": "289d953c-2730-42af-8dbe-8345358f9c86",
+  "A4": "289d953c-2730-42af-8dbe-8345358f9c86",
+  "A5": "0fb0cb2a-366b-4438-84b3-624b07f0e858",
+  "S2": "90b65bf8-0ffc-4141-8779-2420877af907",
+  "E12": {
+    "FB1": 1,
+    "FB2": "False"
+  }
+}
+~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","1c97e9f2-1a01-4761-aabf-6793826fe49e","5e09bfed-4f51-4889-bb67-5947f1acd94d","2830491a-2a21-4019-b528-252b802a7841","7230d5e2-d200-4fa7-813b-8b5b084ec072","7ea9e7ca-c44b-48ba-8c64-aa92315afeeb","27162307-8fc6-4f23-b202-e4df402187f3","b20ccee3-ea1e-4337-a00e-7503b6beb7a3","c08ae96f-1656-4df0-a901-abaddc8c7135","907f5232-da1e-6c12-bbed-5e46d5eb518e","1c76d4af-44f0-a15e-00fa-2d822b53536d","9f11c510-752b-4993-a9b4-582b4f57aff3","0d153f85-add1-1117-fa48-daf02659acb0","cc24ea4d-bf12-4fb5-b096-a34449df214f","b6cd0818-abe7-4d48-bcb6-5b26e1d1a646"]
+= MetaData.Schema.D20.A2 "KirillAppealEvents"
+- MetaData.Schema.EG1.B6
+- MetaData.Schema.EG1.BK29
+- MetaData.Schema.EG1.BK30
+- MetaData.Schema.D1
+- MetaData.Schema.D20.A5
+- MetaData.Schema.D20.FA4
+- MetaData.Schema.D20.FA5
+- MetaData.Schema.D20.FA6
+- MetaData.Schema.D20.FA11
+- MetaData.Schema.D20.FA12
+- MetaData.Schema.D20.FA15
++ MetaData.Schema.B7 false
++ MetaData.Schema.D2.["ae0e45ca-c495-4fe7-a39d-3ab7278e1617"].E16 false
++ MetaData.Schema.D2.["e80190a5-03b2-4095-90f7-a193a960adee"].E16 false
++ MetaData.Schema.D2.["ebf6bb93-8aa6-4a01-900d-c6ea67affe21"].E16 false
++ MetaData.Schema.D2.["9928edec-4272-425a-93bb-48743fee4b04"].E16 false
++ MetaData.Schema.D2.["3015559e-cbc6-406a-88af-07f7930be832"].E16 false
++ MetaData.Schema.D2.["3fabd836-6a53-4d8d-9069-6df88d9dae1e"].E16 false

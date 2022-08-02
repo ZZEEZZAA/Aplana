@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Каталог услуг" />
+			<Item Name="Columns.CreatedBy.Caption" Value="Инициатор" />
+			<Item Name="Columns.KirillCatalogUslugEdinicaVremeni.Caption" Value="Единица времени" />
+			<Item Name="Columns.KirillCatalogUslugKategoria.Caption" Value="Услуга" />
+			<Item Name="Columns.KirillCatalogUslugOtvetstv.Caption" Value="Ответственный" />
+			<Item Name="Columns.KirillCatalogUslugPodrazdelUslugi.Caption" Value="Категория" />
+			<Item Name="Columns.KirillCatalogUslugSostoyanie.Caption" Value="Состояние услуги" />
+			<Item Name="Columns.KirillCatalogUslugVremyaRazr.Caption" Value="Время разрешения" />
+			<Item Name="Columns.KirillName.Caption" Value="Название" />
+			<Item Name="Columns.KirillNotes.Caption" Value="Описание услуги" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

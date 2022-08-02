@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "c5a07244-0425-4652-b023-8a8c6d416153",
+    "Name": "KirillAppealFile",
+    "ModifiedOnUtc": "\/Date(1655312898000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Файл и ссылка объекта Обращение",
+    "DependsOn": []
+  }
+}

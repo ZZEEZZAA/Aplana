@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "7184071b-c077-466e-8b05-af1b536d14e9",
+    "Name": "KirillProcess_c9ae9e9",
+    "ModifiedOnUtc": "\/Date(1658042154000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Категория билета",
+    "DependsOn": []
+  }
+}

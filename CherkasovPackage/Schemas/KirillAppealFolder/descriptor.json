@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "c22f0e88-000f-4fcd-b836-4163c750d44b",
+    "Name": "KirillAppealFolder",
+    "ModifiedOnUtc": "\/Date(1655312904000)\/",
+    "Parent": {
+      "UId": "d602bf96-d029-4b07-9755-63c8f5cb5ed5",
+      "Name": "BaseFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Группа Обращение",
+    "DependsOn": []
+  }
+}

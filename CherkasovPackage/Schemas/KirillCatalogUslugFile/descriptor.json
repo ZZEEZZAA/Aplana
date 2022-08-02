@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "b9d1ce55-59aa-4670-b097-8a69197df3ec",
+    "Name": "KirillCatalogUslugFile",
+    "ModifiedOnUtc": "\/Date(1655504336000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Файл и ссылка объекта Каталог услуг",
+    "DependsOn": []
+  }
+}

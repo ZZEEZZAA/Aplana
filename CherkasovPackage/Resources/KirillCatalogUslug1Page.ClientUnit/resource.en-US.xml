@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница редактирования: &quot;Каталог услуг&quot;" />
+			<Item Name="LocalizableStrings.KirillSchema4ee90561Detail77c8f8c9DetailCaptionOnPage.Value" Value="Билеты услуг" />
+			<Item Name="LocalizableStrings.KirillSchema5b2f893dDetail4beea19cDetailCaptionOnPage.Value" Value="Билеты 2" />
+			<Item Name="LocalizableStrings.KirillSchema5b2f893dDetail99b24e2bDetailCaptionOnPage.Value" Value="Билеты 2" />
+			<Item Name="LocalizableStrings.KirillSchema5b2f893dDetailca31074eDetailCaptionOnPage.Value" Value="Билеты 2" />
+			<Item Name="LocalizableStrings.KirillSchemabe259c16Detail65f9bd91DetailCaptionOnPage.Value" Value="Билеты услуг" />
+			<Item Name="LocalizableStrings.KirillSchemabe259c16Detailc19480feDetailCaptionOnPage.Value" Value="Билеты услуг" />
+			<Item Name="LocalizableStrings.KirillSchemad8a85b4aDetaila1252c3dDetailCaptionOnPage.Value" Value="Билеты" />
+		</Items>
+	</Group>
+</Resources>

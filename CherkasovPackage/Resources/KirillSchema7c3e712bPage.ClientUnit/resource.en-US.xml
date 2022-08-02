@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Билеты по заявкам(деталь)" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Билеты по заявкам(деталь)" />
+			<Item Name="LocalizableStrings.KirillTicketsAppealColumn838ec5817a8043e58021b997faa04250LabelCaption.Value" Value="Услуга" />
+			<Item Name="LocalizableStrings.KirillTicketsAppealColumn838ec5817a8043e58021b997faa04250Tip.Value" Value="Не удалять" />
+		</Items>
+	</Group>
+</Resources>

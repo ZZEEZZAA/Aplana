@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "047853fd-bd8e-4229-9962-507eaaf418fe",
+    "Name": "KirillAppealsNewTag",
+    "ModifiedOnUtc": "\/Date(1658035168000)\/",
+    "Parent": {
+      "UId": "9e3f203c-e905-4de5-9468-335b193f2439",
+      "Name": "BaseTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег раздела Заявки 2.0",
+    "DependsOn": []
+  }
+}

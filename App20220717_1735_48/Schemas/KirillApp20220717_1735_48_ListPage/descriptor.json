@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "00731426-db38-4276-bd31-dea88f607e0d",
+    "Name": "KirillApp20220717_1735_48_ListPage",
+    "ModifiedOnUtc": "\/Date(1635760379000)\/",
+    "Parent": {
+      "UId": "a5678241-e5e0-f691-b825-84b6039d5fa2",
+      "Name": "BaseGridSectionTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "2134567 list page",
+    "DependsOn": []
+  }
+}

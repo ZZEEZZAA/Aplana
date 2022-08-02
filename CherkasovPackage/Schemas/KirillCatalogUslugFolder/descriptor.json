@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "fa7eb43e-176b-4ed3-8d1c-4fcaaa9296b6",
+    "Name": "KirillCatalogUslugFolder",
+    "ModifiedOnUtc": "\/Date(1655504345000)\/",
+    "Parent": {
+      "UId": "d602bf96-d029-4b07-9755-63c8f5cb5ed5",
+      "Name": "BaseFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Группа Каталог услуг",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Билеты по заявкам(деталь)" />
+			<Item Name="Columns.KirillName.Caption" Value="Name" />
+			<Item Name="Columns.KirillTicketsAppealCatalogUslug.Caption" Value="Услуга" />
+			<Item Name="Columns.KirillTicketsAppealCatalogUslug.Description" Value="Связь с каталогом услуг" />
+			<Item Name="Columns.KirillTicketsAppealCategory.Caption" Value="Категория" />
+			<Item Name="Columns.KirillTicketsAppealColumn.Caption" Value="Заявки" />
+			<Item Name="Columns.KirillTicketsAppealCost.Caption" Value="Стоимость билета" />
+			<Item Name="Columns.KirillTicketsAppealOwner.Caption" Value="Владелец" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

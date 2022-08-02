@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "d7b908f7-a5e8-46db-995f-f9de55fe4c37",
+    "Name": "KirillProcess_9fcfd94",
+    "ModifiedOnUtc": "\/Date(1656955812000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Заполнять услугу в билете по заявке",
+    "DependsOn": []
+  }
+}

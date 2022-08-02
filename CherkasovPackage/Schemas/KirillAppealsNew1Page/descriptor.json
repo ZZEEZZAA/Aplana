@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "8b68e2ae-1987-45a6-9994-e99e3581d71b",
+    "Name": "KirillAppealsNew1Page",
+    "ModifiedOnUtc": "\/Date(1658729210000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница редактирования: \"Заявки 2.0\"",
+    "DependsOn": []
+  }
+}

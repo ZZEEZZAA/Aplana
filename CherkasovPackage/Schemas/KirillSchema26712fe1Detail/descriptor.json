@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "b2a0dc20-f34d-41ef-8f21-c14763989523",
+    "Name": "KirillSchema26712fe1Detail",
+    "ModifiedOnUtc": "\/Date(1658043242000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Заявки 2.0",
+    "DependsOn": []
+  }
+}

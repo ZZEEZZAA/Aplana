@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Заявки 2.0" />
+			<Item Name="Columns.CreatedBy.Caption" Value="Заявитель" />
+			<Item Name="Columns.CreatedOn.Caption" Value="Дата создания:" />
+			<Item Name="Columns.KirillAppealsNewAll.Caption" Value="Общая выручка:" />
+			<Item Name="Columns.KirillAppealsNewAverage.Caption" Value="Средняя стоимость билетов:" />
+			<Item Name="Columns.KirillAppealsNewCheck.Caption" Value="Логическое 1" />
+			<Item Name="Columns.KirillAppealsNewCode.Caption" Value="Номер" />
+			<Item Name="Columns.KirillAppealsNewComment.Caption" Value="Комментарий" />
+			<Item Name="Columns.KirillAppealsNewCommServiceCatalog.Caption" Value="Услуга" />
+			<Item Name="Columns.KirillAppealsNewMostCost.Caption" Value="Самый дорогой билет" />
+			<Item Name="Columns.KirillAppealsNewPodrazelUslugi.Caption" Value="Категория услуги" />
+			<Item Name="Columns.KirillAppealsNewResponsible.Caption" Value="Ответственный" />
+			<Item Name="Columns.KirillAppealsNewStartTime.Caption" Value="Дата начала:" />
+			<Item Name="Columns.KirillAppealsNewState.Caption" Value="Состояние" />
+			<Item Name="Columns.KirillAppealsNewTIme.Caption" Value="Время разрешения: " />
+			<Item Name="Columns.KirillAppealsNewTimeUnits.Caption" Value="Единица времени:" />
+			<Item Name="Columns.KirillName.Caption" Value="Name" />
+			<Item Name="Columns.KirillNotes.Caption" Value="Notes" />
+			<Item Name="EventsProcessSchema.Caption" Value="Заявки 2.0" />
+		</Items>
+	</Group>
+</Resources>

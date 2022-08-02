@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "6f52f29d-a7cd-40e6-bffb-0d722cf4ad54",
+    "Name": "KirillTicketsAppeal",
+    "ModifiedOnUtc": "\/Date(1658043382000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Билеты по заявкам(деталь)",
+    "DependsOn": []
+  }
+}

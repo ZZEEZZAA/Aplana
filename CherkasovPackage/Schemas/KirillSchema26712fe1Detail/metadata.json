@@ -1,0 +1,9 @@
+= MetaData.Schema.UId "b2a0dc20-f34d-41ef-8f21-c14763989523"
+= MetaData.Schema.A2 "KirillSchema26712fe1Detail"
+= MetaData.Schema.A5 "ac4f7f0f-d5d5-4e8b-997a-a2f7c46f033e"
+= MetaData.Schema.B2.["8f7c31a4-b656-47c9-a503-a72d0b3dd077"].A4 "b2a0dc20-f34d-41ef-8f21-c14763989523"
+= MetaData.Schema.B6 "1fcdc2c8-e2d6-34a0-ae52-0727061d3216"
+= MetaData.Schema.B8 "7.18.5.1500"
+= MetaData.Schema.HD5 []
+- MetaData.Schema.B7
++ MetaData.Schema.B7 false

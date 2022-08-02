@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "083bd977-3d1d-4b49-9595-5370e0debe18",
+    "Name": "KirillProcess_b768dfe",
+    "ModifiedOnUtc": "\/Date(1657223765000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Визирование заявки",
+    "DependsOn": []
+  }
+}

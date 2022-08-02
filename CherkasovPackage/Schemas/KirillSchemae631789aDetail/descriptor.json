@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "87a7da0c-487e-40e2-86b0-7d7cfcded8a1",
+    "Name": "KirillSchemae631789aDetail",
+    "ModifiedOnUtc": "\/Date(1658042176000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Билеты по заявкам(деталь)",
+    "DependsOn": []
+  }
+}

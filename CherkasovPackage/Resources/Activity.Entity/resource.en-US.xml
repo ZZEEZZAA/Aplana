@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.KirillKirillAppeal.Caption" Value="Обращение" />
+			<Item Name="Columns.KirillKirillAppealsNew.Caption" Value="Заявки 2.0" />
+			<Item Name="Columns.KirillKirillCatalogUslug.Caption" Value="Каталог услуг" />
+		</Items>
+	</Group>
+</Resources>

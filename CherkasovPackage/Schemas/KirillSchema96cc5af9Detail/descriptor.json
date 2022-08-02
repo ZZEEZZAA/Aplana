@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "f9af686e-953e-4a37-bc5a-aaf2641b4359",
+    "Name": "KirillSchema96cc5af9Detail",
+    "ModifiedOnUtc": "\/Date(1655505242000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Каталог услуг",
+    "DependsOn": []
+  }
+}

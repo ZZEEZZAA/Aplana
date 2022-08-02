@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "4e9e30dc-2385-42bb-a995-fc501feabea9",
+    "Name": "KirillCatalogUslugTag",
+    "ModifiedOnUtc": "\/Date(1655504360000)\/",
+    "Parent": {
+      "UId": "9e3f203c-e905-4de5-9468-335b193f2439",
+      "Name": "BaseTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег раздела Каталог услуг",
+    "DependsOn": []
+  }
+}

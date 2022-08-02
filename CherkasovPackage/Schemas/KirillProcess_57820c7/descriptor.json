@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "0359ddd8-01f3-493d-9b5a-0e35e116c5bd",
+    "Name": "KirillProcess_57820c7",
+    "ModifiedOnUtc": "\/Date(1656505590000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Изменение времени разрешения в каталог услуг",
+    "DependsOn": []
+  }
+}

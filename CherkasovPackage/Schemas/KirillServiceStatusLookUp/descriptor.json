@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "e6b97d11-5b92-4ee0-9caa-9e26f009b7a1",
+    "Name": "KirillServiceStatusLookUp",
+    "ModifiedOnUtc": "\/Date(1657137758000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Состояние услуг",
+    "DependsOn": []
+  }
+}

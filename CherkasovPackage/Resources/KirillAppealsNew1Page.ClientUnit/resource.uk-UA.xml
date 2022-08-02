@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница редактирования: &quot;Заявки 2.0&quot;" />
+			<Item Name="LocalizableStrings.KirillSchemae631789aDetailf2179186DetailCaptionOnPage.Value" Value="Базовий об'єкт" />
+		</Items>
+	</Group>
+</Resources>

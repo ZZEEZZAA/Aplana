@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "dd1a75c1-7b2d-4464-bef0-f175cccc002f",
+    "Name": "KirillCase_0539468",
+    "ModifiedOnUtc": "\/Date(1657988262000)\/",
+    "Parent": {
+      "UId": "07886fc7-4536-4271-90a0-3907c871a346",
+      "Name": "KirillCase_ed15ef4"
+    },
+    "ManagerName": "DcmSchemaManager",
+    "Caption": "Жизненный цикл заявки",
+    "DependsOn": []
+  }
+}

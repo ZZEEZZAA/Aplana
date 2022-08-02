@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "719da0f6-7761-4bbf-843c-0825dd8c621b",
+    "Name": "KirillApp20220717_1735_48",
+    "ModifiedOnUtc": "\/Date(1635762253000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "2134567",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "59745952-4698-4d3b-91b7-4e65be70b9fa",
+    "Name": "KirillAppealVisa",
+    "ModifiedOnUtc": "\/Date(1657224033000)\/",
+    "Parent": {
+      "UId": "5fa90d0d-64eb-4f52-8d3d-c51fa6443b66",
+      "Name": "BaseVisa"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Визы в разделе Заявки",
+    "DependsOn": []
+  }
+}

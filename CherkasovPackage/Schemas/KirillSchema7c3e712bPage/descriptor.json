@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "13613f88-5c83-4bf1-ad9e-b6576178faf1",
+    "Name": "KirillSchema7c3e712bPage",
+    "ModifiedOnUtc": "\/Date(1657210362000)\/",
+    "Parent": {
+      "UId": "d3cc497c-f286-4f13-99c1-751c468733c0",
+      "Name": "BasePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Билеты по заявкам(деталь)",
+    "DependsOn": []
+  }
+}

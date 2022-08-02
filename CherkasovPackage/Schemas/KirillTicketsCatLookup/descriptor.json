@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "7ad02438-45e4-4e49-a1e0-bad0dc7d4a2c",
+    "Name": "KirillTicketsCatLookup",
+    "ModifiedOnUtc": "\/Date(1655656100000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Категория билетов",
+    "DependsOn": []
+  }
+}

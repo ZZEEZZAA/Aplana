@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "b2cf5a4b-e163-4376-9796-9a6a0d0a8bf0",
+    "Name": "KirillProcess_f180b99",
+    "ModifiedOnUtc": "\/Date(1655825511000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Удаление записей из детали",
+    "DependsOn": []
+  }
+}

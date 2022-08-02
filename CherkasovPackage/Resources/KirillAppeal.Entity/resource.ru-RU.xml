@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Заявки Не Брать" />
+			<Item Name="Columns.CreatedBy.Caption" Value="Заявитель" />
+			<Item Name="Columns.CreatedOn.Caption" Value="Дата создания:" />
+			<Item Name="Columns.KirillApeealTimeUnit.Caption" Value="Единица разрешения" />
+			<Item Name="Columns.KirillAppealAllTicketsCost.Caption" Value="Стоимость всех билетов:" />
+			<Item Name="Columns.KirillAppealCatalogUslug.Caption" Value="Услуга" />
+			<Item Name="Columns.KirillAppealCatalogUslug.Description" Value="Услуга из Каталога Услуг, колонка связана с другим разделом(&quot;Каталог услуг&quot;) по ID записи из раздела(&quot;Каталог услуг&quot;)" />
+			<Item Name="Columns.KirillAppealMidCostTickets.Caption" Value="Средняя стоимость билета:" />
+			<Item Name="Columns.KirillAppealMostCostTicket.Caption" Value="Самый дорогой билет:" />
+			<Item Name="Columns.KirillAppealsCheck.Caption" Value="Проверена?" />
+			<Item Name="Columns.KirillAppealTime.Caption" Value="Время разрешения" />
+			<Item Name="Columns.KirillCode.Caption" Value="Номер" />
+			<Item Name="Columns.KirillDatetime1.Caption" Value="Дата начала:" />
+			<Item Name="Columns.KirillLookup1.Caption" Value="Ответственный" />
+			<Item Name="Columns.KirillLookup3.Caption" Value="Состояние" />
+			<Item Name="Columns.KirillName.Caption" Value="Тема" />
+			<Item Name="Columns.KirillNotes.Caption" Value="Заметки" />
+			<Item Name="Columns.KirillString1.Caption" Value="Комментарий" />
+			<Item Name="EventsProcessSchema.Caption" Value="Заявки 2.0" />
+		</Items>
+	</Group>
+</Resources>

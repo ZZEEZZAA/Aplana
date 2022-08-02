@@ -1,0 +1,8 @@
+= MetaData.Schema.UId "00731426-db38-4276-bd31-dea88f607e0d"
+= MetaData.Schema.A2 "KirillApp20220717_1735_48_ListPage"
+= MetaData.Schema.A5 "6f71e54c-1960-40c9-94f6-073fd67699ab"
+= MetaData.Schema.B2 []
+= MetaData.Schema.B6 "5530927f-22ea-e7c9-4ccf-506d3a6c2ed2"
+= MetaData.Schema.HD1 "a5678241-e5e0-f691-b825-84b6039d5fa2"
+- MetaData.Schema.B7
++ MetaData.Schema.B7 false

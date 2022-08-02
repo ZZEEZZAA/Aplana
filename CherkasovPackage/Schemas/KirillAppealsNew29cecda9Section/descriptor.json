@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "96b72a95-8b13-48c1-904b-87935bdd7e5b",
+    "Name": "KirillAppealsNew29cecda9Section",
+    "ModifiedOnUtc": "\/Date(1659355525000)\/",
+    "Parent": {
+      "UId": "7912fb69-4fee-429f-8b23-93943c35d66d",
+      "Name": "BaseSectionV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема раздела: \"Заявки 2.0\"",
+    "DependsOn": []
+  }
+}

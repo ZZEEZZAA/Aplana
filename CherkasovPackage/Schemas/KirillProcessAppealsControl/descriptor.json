@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "dda88f58-53ad-43a2-99f6-89b4f83697b9",
+    "Name": "KirillProcessAppealsControl",
+    "ModifiedOnUtc": "\/Date(1658086796000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Бизнес-процесс 3",
+    "DependsOn": []
+  }
+}

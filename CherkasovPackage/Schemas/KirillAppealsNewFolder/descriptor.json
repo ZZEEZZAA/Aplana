@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "5c783417-b97c-4b06-ad8d-0c125bcdd8b8",
+    "Name": "KirillAppealsNewFolder",
+    "ModifiedOnUtc": "\/Date(1658035153000)\/",
+    "Parent": {
+      "UId": "d602bf96-d029-4b07-9755-63c8f5cb5ed5",
+      "Name": "BaseFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Группа Заявки 2.0",
+    "DependsOn": []
+  }
+}

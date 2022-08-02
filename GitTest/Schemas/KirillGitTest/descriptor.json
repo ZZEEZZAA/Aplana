@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "1e6f5cc6-f36d-4fd4-bf3c-10f2bf288b6d",
+    "Name": "KirillGitTest",
+    "ModifiedOnUtc": "\/Date(1659450950000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Object",
+    "DependsOn": []
+  }
+}

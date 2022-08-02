@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "cfa7f0b8-403e-9970-77d5-2a482f0e74b0",
+    "Name": "GitTest",
+    "ModifiedOnUtc": "\/Date(1659450911000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "1fcdc2c8-e2d6-34a0-ae52-0727061d3216",
+        "Name": "CherkasovPackage"
+      }
+    ]
+  }
+}

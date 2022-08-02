@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "2ffb2552-dc48-413c-b5f1-794aff82f66b",
+    "Name": "KirillAppealf2212d6eSection",
+    "ModifiedOnUtc": "\/Date(1658015774000)\/",
+    "Parent": {
+      "UId": "7912fb69-4fee-429f-8b23-93943c35d66d",
+      "Name": "BaseSectionV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема раздела: \"Обращение\"",
+    "DependsOn": []
+  }
+}

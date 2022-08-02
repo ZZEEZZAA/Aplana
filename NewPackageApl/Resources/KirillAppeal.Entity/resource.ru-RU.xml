@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="EventsProcessSchema.BaseElements.EventSubProcess1_65cb57f67c9146ed9a754b51134a777b.Caption" Value="Нумерация" />
+			<Item Name="EventsProcessSchema.BaseElements.UserTask1.Caption" Value="Сгенерировать номер по порядку 1" />
+			<Item Name="EventsProcessSchema.BaseElements.UserTask1.Parameters.EntitySchema.Caption" Value="EntitySchema" />
+			<Item Name="EventsProcessSchema.BaseElements.UserTask1.Parameters.ResultCode.Caption" Value="ResultCode" />
+			<Item Name="EventsProcessSchema.Caption" Value="Заявки 2.0" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_cdef0eca0b584adb87daa6460eb6328d.Caption" Value="LaneSet 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_cdef0eca0b584adb87daa6460eb6328d.Lanes.Lane_c8b7228adb844fe7ab0015ca980da6fc.Caption" Value="Lane 1" />
+		</Items>
+	</Group>
+</Resources>

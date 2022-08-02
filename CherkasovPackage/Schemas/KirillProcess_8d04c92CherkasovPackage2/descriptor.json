@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "458dd910-d510-4833-937f-414f8cc2bbd1",
+    "Name": "KirillProcess_8d04c92CherkasovPackage2",
+    "ModifiedOnUtc": "\/Date(1657233427000)\/",
+    "Parent": {
+      "UId": "3a3a4249-6df4-401e-8272-9e4680f7509d",
+      "Name": "KirillProcess_8d04c92"
+    },
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Бизнес-процесс 3",
+    "DependsOn": []
+  }
+}

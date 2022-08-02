@@ -1,0 +1,18 @@
+= MetaData.Schema.UId "d63f77b6-891e-4dd3-aed6-45a4d746e4be"
+= MetaData.Schema.A2 "KirillApp20220717_1735_48_FormPage"
+= MetaData.Schema.A5 "6f71e54c-1960-40c9-94f6-073fd67699ab"
+= MetaData.Schema.B2.["081ca74a-55f0-e477-ca1a-579a46113c87"].A4 "d63f77b6-891e-4dd3-aed6-45a4d746e4be"
+= MetaData.Schema.B2.["081ca74a-55f0-e477-ca1a-579a46113c87"].A5 "b6d0a3e9-eaae-4410-97c9-6f6f4cdf8963"
+= MetaData.Schema.B2.["28cf4885-5ae5-77fe-5946-88da3c156006"].A4 "d63f77b6-891e-4dd3-aed6-45a4d746e4be"
+= MetaData.Schema.B2.["28cf4885-5ae5-77fe-5946-88da3c156006"].A5 "b6d0a3e9-eaae-4410-97c9-6f6f4cdf8963"
+= MetaData.Schema.B2.["f96c391d-89ff-d84f-29d3-4bdba8db1e7e"].A4 "d63f77b6-891e-4dd3-aed6-45a4d746e4be"
+= MetaData.Schema.B2.["f96c391d-89ff-d84f-29d3-4bdba8db1e7e"].A5 "b6d0a3e9-eaae-4410-97c9-6f6f4cdf8963"
+= MetaData.Schema.B2.["2c27eb22-b92d-6340-663a-15c29831d268"].A4 "d63f77b6-891e-4dd3-aed6-45a4d746e4be"
+= MetaData.Schema.B2.["2c27eb22-b92d-6340-663a-15c29831d268"].A5 "b6d0a3e9-eaae-4410-97c9-6f6f4cdf8963"
+= MetaData.Schema.B2.["8f904755-8d87-97a0-1679-692f997cd84e"].A4 "d63f77b6-891e-4dd3-aed6-45a4d746e4be"
+= MetaData.Schema.B2.["8f904755-8d87-97a0-1679-692f997cd84e"].A5 "b6d0a3e9-eaae-4410-97c9-6f6f4cdf8963"
+~ MetaData.Schema.B2 ["081ca74a-55f0-e477-ca1a-579a46113c87","28cf4885-5ae5-77fe-5946-88da3c156006","f96c391d-89ff-d84f-29d3-4bdba8db1e7e","2c27eb22-b92d-6340-663a-15c29831d268","8f904755-8d87-97a0-1679-692f997cd84e"]
+= MetaData.Schema.B6 "5530927f-22ea-e7c9-4ccf-506d3a6c2ed2"
+= MetaData.Schema.HD1 "0f8eb896-7b62-4dfa-bd55-a414f50932a7"
+- MetaData.Schema.B7
++ MetaData.Schema.B7 false

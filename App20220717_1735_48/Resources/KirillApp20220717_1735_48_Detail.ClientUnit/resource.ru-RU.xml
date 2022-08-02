@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Деталь 2134567" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="KirillApp20220717_1735_48" />
+		</Items>
+	</Group>
+</Resources>

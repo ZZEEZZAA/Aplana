@@ -1,0 +1,17 @@
+﻿{
+  "Descriptor": {
+    "UId": "7a9d209b-7913-48be-a349-5e9f0a799a89",
+    "Name": "App20220717_1735_48",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1632313759000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/App20220717_1735_48.csproj",
+    "DependsOn": [
+      {
+        "UId": "613fd913-be03-46ce-909b-f44e4225469e",
+        "PackageVersion": "7.8.0",
+        "Name": "UIv2"
+      }
+    ]
+  }
+}

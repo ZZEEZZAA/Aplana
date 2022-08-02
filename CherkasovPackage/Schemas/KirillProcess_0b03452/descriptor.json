@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "ae3c1eb9-63a1-493a-985b-36f1c47d95fa",
+    "Name": "KirillProcess_0b03452",
+    "ModifiedOnUtc": "\/Date(1658041397000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Проставить время выполнения в обращениях",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "bb8fde5a-b19a-4d81-b51e-b433dc5d007a",
+    "Name": "KirillApp20220717_1735_48_Detail",
+    "ModifiedOnUtc": "\/Date(1658079349000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "2134567 detail",
+    "DependsOn": []
+  }
+}

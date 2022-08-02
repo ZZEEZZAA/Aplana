@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Тег в записи раздела Заявки 2.0" />
+			<Item Name="Columns.Entity.Caption" Value="Заявки 2.0" />
+			<Item Name="Columns.Tag.Caption" Value="Тег раздела Заявки 2.0" />
+		</Items>
+	</Group>
+</Resources>

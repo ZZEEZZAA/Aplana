@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "55e8f0bc-40ef-436a-b4b4-1ef9151e5627",
+    "Name": "KirillProcess_c941f10",
+    "ModifiedOnUtc": "\/Date(1656012893000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Бизнес-процесс 2",
+    "DependsOn": []
+  }
+}

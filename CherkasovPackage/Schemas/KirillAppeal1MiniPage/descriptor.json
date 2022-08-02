@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "f1ac5210-99fc-4b17-894f-a73d5e8dd493",
+    "Name": "KirillAppeal1MiniPage",
+    "ModifiedOnUtc": "\/Date(1655387850000)\/",
+    "Parent": {
+      "UId": "8e06a577-08e4-424e-bd89-798a34e1b928",
+      "Name": "BaseMiniPage"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "KirillAppeal1MiniPage",
+    "DependsOn": []
+  }
+}
